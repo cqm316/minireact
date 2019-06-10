@@ -1,1 +1,1 @@
-# minireact
+# miniReact
